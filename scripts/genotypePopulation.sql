@@ -24,7 +24,7 @@ CREATE TABLE genotype (
 	CHECK (
 		transgenic_modification_type = "TG" OR
 		transgenic_modification_type = "KO" OR
-		transgenic_modiciation_type = NULL
+		transgenic_modification_type = NULL
 	)
 );
 
