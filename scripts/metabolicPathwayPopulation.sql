@@ -9,7 +9,7 @@
 -- DDL to create a table that stores metabolic pathway information
 CREATE TABLE metabolic_pathways (
 	map_id varchar(15) NOT NULL,
-	pathway_name varchar(63) NOT NULL,
+	pathway_name varchar(127) NOT NULL,
 	PRIMARY KEY (map_id)
 );
 
