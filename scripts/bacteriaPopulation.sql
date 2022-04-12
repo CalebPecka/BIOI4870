@@ -12,16 +12,16 @@
 -- DDL to create a table that stores bacteria information
 CREATE TABLE bacteria (
 	org_code varchar(4) NOT NULL,
-	kingdom varchar(63), 
-	phylum varchar(63), 
-	class varchar(63), 
-	order varchar(63),
-	genus varchar(63), 
-	species varchar(63),
+	lin_kingdom varchar(63), 
+	lin_phylum varchar(63), 
+	lin_class varchar(63), 
+	lin_order varchar(63),
+	lin_genus varchar(63), 
+	lin_species varchar(63),
 	species_and_strain varchar(63),
-	comment varchar(1023)
+	comment varchar(1023),
 	name varchar(63) NOT NULL,
-	PRIMARY KEY (name),
+	PRIMARY KEY (name)
 );
 
 -- DML to populate table values. These were created programatically
