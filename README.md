@@ -1,2 +1,3 @@
-# BIOI4870
-The purpose of this project is to curate and organize predicted bacterial contributions to metabolites. This project would be helpful for biological researchers interested in exploring the impact of dysbiosis on host metabolism.
+# A Database for Microbial Contributions to Metabolites (MCM)
+
+Dysbiosis in the bacterial gut microbiome leads to both positive and negative health impacts on the host organism. Changes in host health can in part be attributed to the altered ability of the microbiome to participate in various metabolic pathways. The purpose of this project is to curate and organize predicted bacterial contributions to metabolites in transgenic claudin phenotypes of Mus musculus. The public facing webpage for this project visualizes ~100 metabolic pathways and how effectively individual differentially abundant bacteria can contribute to the pathway. These results are of interest to biologists exploring how changes in claudin gene expression negatively impacts host health via mechanisms of bacterial dysbiosis.
